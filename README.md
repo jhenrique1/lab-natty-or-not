@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/be0b53f1-4a97-4003-a454-93545e80d6bf)![image](https://github.com/user-attachments/assets/563e704d-3bf9-4c00-bdcb-25f0bf481d11)# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+![image](https://github.com/user-attachments/assets/563e704d-3bf9-4c00-bdcb-25f0bf481d11)# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 ## 🚀 Introdução
 
@@ -32,7 +32,7 @@ Para o projeto, foi utilizada a ferramenta Microsoft Copilot
 O processo de criação consiste em apresentar de forma textual a ferramenta todos itens que você deseja que a imagem possua. Quanto maior o nível de detalhes melhor a interpretação e apresentação do resultado.
 
 ## 🚀 Resultados
-Com isso, o sistema gerou a seguinte imagem: <img src="https://tse3.mm.bing.net/th?id=OIG4._x9u.ejNUVJtcRb4UpRB&pid=ImgGn" alt="Imagem gerada">
+Com isso, o sistema gerou a seguinte imagem
 
 .
 ```
