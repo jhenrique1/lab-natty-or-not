@@ -20,20 +20,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Tentativa de criação de paisagem natural
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto tem como objetivo criar uma imagem de uma paisagem natural através da inteligência artificial, a qual deve passar a impressão de ser natural
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Para o projeto, foi utilizada a ferramenta Microsoft Copilot
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O processo de criação consiste em apresentar de forma textual a ferramenta todos itens que você deseja que a imagem possua. Quanto maior o nível de detalhes melhor a interpretação e apresentação do resultado.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
+Com isso, o sistema gerou a seguinte imagem:
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
 ```
